@@ -1,74 +1,88 @@
-# 👥 Contributors
 
-This project was developed as a **collaborative Java OOP group project**.  
-Each contributor worked on **specific modules** of the School Management System.
+# 🤝 Collaboration Guide – School Management System
 
----
-
-## 🧑‍💻 Project Lead / Coordinator
-- **Abdullahi Jamil Muhammad**  
-  *Role:* Project coordination, system integration, core structure  
-  *GitHub:* https://github.com/bnusmann22
+This document defines **how the team collaborates**, assigns tasks, and maintains code quality throughout the project.
 
 ---
 
-## 📦 Module Contributors
+## 👥 Team Structure
+> _Check out team breakdown  [`Team.md`](Team.md)._ 
 
-### 🎓 Student Management Module
-- Contributor 1 – Student data model & logic
-- Contributor 2 – Student listing & display
-- Contributor 3 – Input validation (if applicable)
+Each major module is owned by **2–3 students**:
 
----
 
-### 👩‍🏫 Teacher Management Module
-- Contributor 1 – Teacher class & attributes
-- Contributor 2 – Teacher registration logic
-
----
-
-### 📚 Course Management Module
-- Contributor 1 – Course creation & storage
-- Contributor 2 – Course listing & assignment
+| Module | Responsibility |
+|------|----------------|
+| Student | Student data & logic |
+| Teacher | Teacher records |
+| Course | Course creation & listing |
+| Attendance | Attendance recording |
+| Result | Scores & grade calculation |
+| Fee | Fee payment & balance |
+| School (Core) | Central data storage |
+| Menu / Integration | User interaction & flow |
 
 ---
 
-### 📅 Attendance Module
-- Contributor 1 – Attendance tracking
-- Contributor 2 – Attendance reporting
+## 📁 Code Ownership Rules
+
+- Each group **edits ONLY their assigned file(s)**
+- Do **NOT modify other modules**
+- Do **NOT edit `Main.java`** unless assigned
+- Follow the existing package structure
 
 ---
 
-### 📝 Result & Grading Module
-- Contributor 1 – Result model
-- Contributor 2 – Grade calculation logic
+## 🧱 Coding Standards
+
+- Use **clear variable names**
+- Keep methods **simple and readable**
+- Avoid unnecessary complexity
+- Use `toString()` for displaying objects
+- Follow Java naming conventions
 
 ---
 
-### 💰 Fee Management Module
-- Contributor 1 – Fee records
-- Contributor 2 – Balance & payment logic
+## 🌿 Git Workflow
+
+1. Clone the repository
+2. Create a new branch:
+   ```bash
+   git checkout -b module-student
+   ````
+
+3. Make changes **only in your module**
+4. Commit with a clear message:
+
+   ```bash
+   git commit -m "Add student module logic"
+   ```
+5. Push and open a **Pull Request**
+6. Wait for review before merging
 
 ---
 
-## 🧠 Core System & Integration
-- Menu navigation
-- Module integration
-- Application flow control
+## ⚠️ Important Rules
+
+* No direct pushes to `main`
+* Resolve merge conflicts carefully
+* Communicate before major changes
+* Keep commits small and meaningful
 
 ---
 
-## 🤝 Contribution Policy
-- Each contributor worked **only on their assigned module**
-- All changes were reviewed before merging
-- GitHub branches and pull requests were used for collaboration
+## 🎯 Goal of Collaboration
+
+* Ensure everyone contributes
+* Avoid merge conflicts
+* Maintain a clean, understandable codebase
+* Learn teamwork alongside Java OOP
 
 ---
 
-## 📌 Acknowledgement
-This project was created strictly for **educational purposes**  
-to practice **Java programming, Object-Oriented Design, and teamwork**.
+## ✅ Final Reminder
 
----
+> Simplicity, clarity, and teamwork matter more than advanced features.
 
-> _“Teamwork divides the task and multiplies the success.”_
+Happy coding 🚀
+
