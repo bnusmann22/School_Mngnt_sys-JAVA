@@ -81,7 +81,7 @@ SchoolManagement/
 ## 👥 Team Collaboration
 
 This project is built by a **team of students**, with each module assigned to **2–3 contributors**.
-Collaboration rules and workflow are documented in [`COLLABORATION.md`](COLLABORATION.md).
+Collaboration rules and workflow are documented in [`COLLABORATION.md`](Collaboration.md).
 
 ---
 
