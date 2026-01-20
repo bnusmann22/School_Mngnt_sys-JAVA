@@ -1,8 +1,5 @@
 package model;
 
-/**
- * Fee model class managing student fees and payments.
- */
 public class Fee {
     private final int studentId;
     private final double totalFee;
