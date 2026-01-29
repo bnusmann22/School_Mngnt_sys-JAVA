@@ -23,7 +23,7 @@ Each contributor worked on **specific modules** of the School Management System.
 ---
 
 ### 👩‍🏫 Teacher Management Module
--  MUHAMMAD ANSAR HAMZA (Cst/23/IFT/00927) – Teacher class & attributes
+-  MUHAMMAD ANSAR HAMZA (CST/23/IFT/00927) – Teacher class & attributes
 - Mardiyyah Muhammad Mukhtar (CST/24/SWE/00201) – Teacher registration logic
 
 ---
@@ -35,14 +35,14 @@ Each contributor worked on **specific modules** of the School Management System.
 ---
 
 ### 📅 Attendance Module
-- Basheer Olanrewaju Abdul-Salam (CST.23.SWE.00985 ) – Attendance tracking
+- Basheer Olanrewaju Abdul-Salam (CST/23/SWE/00985 ) – Attendance tracking
 - DAVID JEDIDIAH AKHALU (CST/23/IFT/01003) – Attendance reporting
 
 ---
 
 ### 📝 Result & Grading Module
-- Ibrahim Ibrahim Ahmad (Cst/23/swe/01029) – Result model
-- Aaron Akachukwu (CST/23/swe/01001) – Grade calculation logic
+- Ibrahim Ibrahim Ahmad (CST/23/SWE/01029) – Result model
+- Aaron Akachukwu (CST/23/SWE/01001) – Grade calculation logic
 
 ---
 
@@ -69,6 +69,3 @@ Each contributor worked on **specific modules** of the School Management System.
 ## 📌 Acknowledgement
 This project was created strictly for **educational purposes**  
 to practice **Java programming, Object-Oriented Design, and teamwork**.
-
----
-> _“Teamwork divides the task and multiplies the success.”_
